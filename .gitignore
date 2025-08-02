@@ -1,0 +1,14 @@
+# Ignore database dumps and binaries
+*.sql.gz
+*.bak
+*.dmp
+
+# Ignore temporary files
+*.tmp
+*~
+.DS_Store
+
+# Editor specific
+.vscode/
+.idea/
+
