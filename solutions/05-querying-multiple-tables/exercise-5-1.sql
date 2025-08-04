@@ -1,0 +1,2 @@
+-- <1> is replaced by a
+-- <2> is replaced by ct.city_id
